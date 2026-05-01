@@ -1,0 +1,24 @@
+# Data & model
+ml-100k/
+movielens.zip
+model_embeddings.pkl
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
